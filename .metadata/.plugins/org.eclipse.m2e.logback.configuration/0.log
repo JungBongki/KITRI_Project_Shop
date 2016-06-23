@@ -1,0 +1,9 @@
+2016-06-23 10:09:50,679 [Worker-34] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.kitri:myapp:1.0.0-BUILD-SNAPSHOT @ C:\Users\Administrator\Documents\KITRI_Project_Shop\Kitri_shop\pom.xml.
+2016-06-23 10:09:55,967 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-23 10:09:55,991 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-06-23 10:09:55,999 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-23 10:09:56,000 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-06-23 10:09:58,171 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-23 10:09:58,176 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-06-23 10:09:58,180 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-23 10:09:58,181 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
